@@ -1,8 +1,9 @@
-# SE
 PROJETO FINAL DE SISTEMAS EMBARCADOS
+====================================
 
 
 ## COMPONENTES
+
 <ul>
 	<li>Sensor de temperatura e humidadade.</li>
 	<li>Antenas receptora e transmissora RF.</li>
@@ -10,7 +11,9 @@ PROJETO FINAL DE SISTEMAS EMBARCADOS
 	<li>Servo com rotação 0º-180º.</li>
 	<li>botão
 </ul>
-## Descrição
+
+## DESCRIÇÃO
+
 <ul>
 	<li>A leitura sera realizada através de um sensor de temperatura conectado a uma placa remota.</li>
 	<li>Os dados serão enviados através de um transmissor RF.</li>
